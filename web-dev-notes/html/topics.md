@@ -1,6 +1,7 @@
+
 ---
 
-# ✅ HTML Topics Checklist (Zero → Advanced)
+# ✅ HTML Topics (Zero → Advanced)
 
 ## 📘 Chapter 1: HTML Fundamentals (Absolute Beginner)
 
