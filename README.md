@@ -47,16 +47,37 @@ This repository focuses on **clarity, fundamentals, and real-world understanding
 
 ```text
 web-dev-notes/
-├─ html/                # HTML fundamentals & examples
-├─ css/                 # CSS concepts, layouts, responsive design
-├─ javascript/          # JS basics to advanced topics
-├─ typescript/          # Type safety, generics, tooling
-├─ frameworks/
-│  ├─ react/
-│  ├─ angular/
-│  ├─ tailwind/
-│  └─ bootstrap/
-├─ examples/            # Mini demos & practice snippets
+├─ frontend/
+│  ├─ html/                # HTML fundamentals & examples
+│  ├─ css/                 # CSS concepts, layouts, responsive design
+│  ├─ javascript/          # JS basics to advanced topics
+│  ├─ typescript/          # Type safety, generics, tooling
+│  ├─ frameworks/
+│  │  ├─ react/
+│  │  ├─ angular/
+│  │  ├─ tailwind/
+│  │  └─ bootstrap/
+│  └─ projects/            # Mini demos & practice snippets
+├─ backend/
+│  ├─ dotnet-fundamentals/       # All fundamental concepts about Dotnet framework
+│  ├─ csharp-fundamentals/       # All fundamental concepts about C# programming language
+│  │  ├─ basics/
+│  │  ├─ oops/
+│  │  └─ advance/
+│  ├─ dotnet-core/               # Basic to Advance Dotnet using C#
+│  ├─ web-api/                   # Web APIs using ASP.NET
+│  ├─ database-sql-server/       # Database fundamentals
+│  ├─ entity-framework-core/     # ORM in Dotnet
+│  ├─ architecture/              # Architecture and best practices in Dotnet
+│  ├─ security/                  # Security concerns in backend
+│  ├─ testing/                   # Ways to test an application for Q/A
+│  ├─ performance-scalability/   # Principles to boost application's performance and also make scalability easier
+│  ├─ logging-monitoring/        # Some tips and tricks and also advance practices in backend
+│  ├─ devops-development/        # CI/CD pipiline and deployment principles
+│  ├─ azure-cloud/               # Cloud services for Dotnet applications
+│  └─ projects/                  # Some basic projects built in dotnet
+│─ resources/           # Shared resources like diagrams, images, etc. for both frontend and backend
+│─ projects/            # Some basic projects of web applications using both frontend and backend
 ├─ README.md
 ├─ LICENSE
 └─ .gitignore
