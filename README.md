@@ -180,16 +180,14 @@ Inspired by:
 
 ---
 
-## 📬 Author
+## 📬 Author: *Talha Ahmad*
 
-**Talha Ahmad**
-- [GitHub](https://github.com/TalhaAhmad-Codes)
-- [LinkedIn](https://www.linkedin.com/in/talha-ahmad-tech/)
-- [Facebook](https://www.facebook.com/profile.php?id=61585650534820)
-- [Instagram](https://www.instagram.com/talhaahmadtech/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TalhaAhmad-Codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-ahmad-tech/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61585650534820)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talhaahmadtech/)
 
 ---
 
-> **Quote:** *“Strong fundamentals make frameworks easy.”*
-
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 ---
