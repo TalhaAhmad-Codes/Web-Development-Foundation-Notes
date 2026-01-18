@@ -5,18 +5,18 @@
 
 ## 📘 Chapter 1: HTML Fundamentals (Absolute Beginner)
 
-* [ ] What is HTML & how the web works
-* [ ] HTML vs CSS vs JavaScript (roles & responsibilities)
-* [ ] Basic structure of an HTML document
+* ✔️ [What is HTML & how the web works](/web-dev-notes/frontend/html/1.%20Fundamentals/1.%20Introduction.md)
+* ✔️ [HTML vs CSS vs JavaScript](/web-dev-notes/frontend/html/1.%20Fundamentals/2.%20HTML%20vs%20CSS%20vs%20JS.md)
+* ✔️ [Basic structure of an HTML document](/web-dev-notes/frontend/html/1.%20Fundamentals/3.%20Structure%20of%20HTML.md)
 
-  * [ ] `<!DOCTYPE html>`
-  * [ ] `<html>`, `<head>`, `<body>`
-* [ ] HTML elements vs tags
-* [ ] Opening, closing & self-closing tags
-* [ ] Attributes & attribute values
-* [ ] Comments in HTML
-* [ ] Case sensitivity rules
-* [ ] HTML file naming conventions
+  * ✔️ `<!DOCTYPE html>`
+  * ✔️ `<html>`, `<head>`, `<body>`
+* ✔️ [HTML elements vs tags](/web-dev-notes/frontend/html/1.%20Fundamentals/4.%20Elements%20vs%20Tags.md)
+* ✔️ [Opening, closing & self-closing tags](/web-dev-notes/frontend/html/1.%20Fundamentals/5.%20Opening,%20closing%20and%20self-closing%20tags.md)
+* ✔️ [Attributes & attribute values](/web-dev-notes/frontend/html/1.%20Fundamentals/6.%20Attributes%20and%20attribute%20values.md)
+* ✔️ [Comments in HTML](/web-dev-notes/frontend/html/1.%20Fundamentals/7.%20Comments.md)
+* ✔️ [Case sensitivity rules](/web-dev-notes/frontend/html/1.%20Fundamentals/8.%20Case%20sensitivity%20rules.md)
+* ✔️ [HTML file naming conventions](/web-dev-notes/frontend/html/1.%20Fundamentals/9.%20Naming%20conventions.md)
 
 ---
 
