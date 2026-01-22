@@ -22,7 +22,7 @@
 
 ## 📗 Chapter 2: Text & Content Elements
 
-* [ ] Headings (`<h1>` – `<h6>`) and hierarchy
+* ✔️ [Headings (`<h1>` – `<h6>`) and hierarchy](/web-dev-notes/frontend/html/2.%20Text%20&%20Content%20Elements/1.%20Headings.md)
 * [ ] Paragraphs (`<p>`)
 * [ ] Line breaks (`<br>`) vs horizontal rules (`<hr>`)
 * [ ] Text formatting
