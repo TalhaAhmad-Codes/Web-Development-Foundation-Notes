@@ -23,23 +23,23 @@
 ## 📗 Chapter 2: Text & Content Elements
 
 * ✔️ [Headings (`<h1>` – `<h6>`) and hierarchy](/web-dev-notes/frontend/html/2.%20Text%20&%20Content%20Elements/1.%20Headings.md)
-* [ ] Paragraphs (`<p>`)
-* [ ] Line breaks (`<br>`) vs horizontal rules (`<hr>`)
-* [ ] Text formatting
+* ✔️ [Paragraphs (`<p>`)](/web-dev-notes/frontend/html/2.%20Text%20&%20Content%20Elements/2.%20Paragraphs.md)
+* ✔️ [Line breaks (`<br>`) vs horizontal rules (`<hr>`)](/web-dev-notes/frontend/html/2.%20Text%20&%20Content%20Elements/3.%20Line%20Breaks.md)
+* ✔️ [Text formatting](/web-dev-notes/frontend/html/2.%20Text%20&%20Content%20Elements/4.%20Text%20Formatting.md)
 
-  * [ ] `<strong>` vs `<b>`
-  * [ ] `<em>` vs `<i>`
-  * [ ] `<mark>`
-  * [ ] `<small>`
-  * [ ] `<del>` / `<ins>`
-  * [ ] `<sub>` / `<sup>`
-* [ ] Preformatted text (`<pre>`)
-* [ ] Quotations
+  * ✔️ `<strong>` vs `<b>`
+  * ✔️ `<em>` vs `<i>`
+  * ✔️ `<mark>`
+  * ✔️ `<small>`
+  * ✔️ `<del>` / `<ins>`
+  * ✔️ `<sub>` / `<sup>`
+* ✔️ [Preformatted text (`<pre>`)](/web-dev-notes/frontend/html/2.%20Text%20&%20Content%20Elements/5.%20Preformatted%20Text.md)
+* ✔️ [Quotations](/web-dev-notes/frontend/html/2.%20Text%20&%20Content%20Elements/6.%20Quotations.md)
 
-  * [ ] `<blockquote>`
-  * [ ] `<q>`
-  * [ ] `<cite>`
-* [ ] Abbreviations & definitions (`<abbr>`, `<dfn>`)
+  * ✔️ `<blockquote>`
+  * ✔️ `<q>`
+  * ✔️ `<cite>`
+* ✔️ [Abbreviations & definitions (`<abbr>`, `<dfn>`)](/web-dev-notes/frontend/html/2.%20Text%20&%20Content%20Elements/7.%20Abbreviations%20&%20definitions.md)
 
 ---
 
